@@ -1,1 +1,6 @@
-[Homepage](https://www.gno.land/) - [Latest testnet](https://test3.gno.land) (test3) - [Community Discord](https://discord.gg/tF2X8M6cVj)
+- Homepage: https://www.gno.land/
+- Last testnet: https://test3.gno.land
+- Community Discord: https://discord.gg/tF2X8M6cVj
+- Reddit: https://reddit.com/r/gnoland
+- Twitter: https://twitter.com/_gnoland
+- YouTube: https://youtube.com/@_gnoland
