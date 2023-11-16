@@ -5,8 +5,6 @@
     \__, /_/ /_/\____/      Social:    <a href="https://twitter.com/_gnoland">Twitter</a> - <a href="https://discord.gg/tF2X8M6cVj">Discord</a> - <a href="https://reddit.com/r/gnoland">Reddit</a> - <a href="https://youtube.com/@_gnoland">YouTube</a>
    /____/                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 </pre>
-<<<<<<< HEAD
-=======
 
 ***
 
@@ -108,4 +106,3 @@ Choose your path:
 - [OnBloc](https://onbloc.xyz/)
 - [Teritori](https://teritori.com/)
 </pre>
->>>>>>> 7184d68 (fix: header)
