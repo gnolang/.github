@@ -19,9 +19,8 @@
 ## Why Go-Based?
 The decision to base Gno.land's language on Go was influenced by the following factors:
 
-- Standard and Secure Language: Go is a well-established and secure programming language, widely adopted in the software development community. By leveraging Go's features, Gno.land benefits from a robust and proven foundation.
-
-- User-Friendly: Go's simplicity and ease of understanding make it beginner-friendly. This accessibility lowers the entry barrier for developers to create Smart Contracts on the Gno.land platform.
+- An established language: using Go instead of creating a new programming language enables existing Go developers to bring over their knowledge to Gno, making adopting the language not an intrinsic time investment on the success of the blockchain. Gno re-uses the syntax and a majority of the standard libraries, adapts Go's package model and adapts it for the blockchain context.
+- Security through the package model: by leveraging Go's existing package model, which distinguishes between exported and unexported symbols, realms (smart contracts) are capable of simply discriminating what functionality, types and data should be available for consumption outside of the realm. By enforcing all on-chain published code to be open source and creating a public on-chain registry of published re-usable packages, Gno realms (smart contracts and packages can be easily audited and build upon each other's reputation.
 
 **Coming from other blockchains like Ethereum?**
 
