@@ -1,13 +1,14 @@
 <pre>
       ____ _____  ____      Discover:  <a href="https://www.gno.land/">Homepage</a> - <a href="https://github.com/gnolang/gno">Main repo</a>
      / __ `/ __ \/ __ \     Networks:  <a href="https://test3.gno.land">Test3 (latest)</a> - <a href="https://staging.gno.land">Staging</a>
-    / /_/ / / / / /_/ /     Learn:     <a href="https://gno-by-example.com">Gno by Example</a> - <a href="https://github.com/gnolang/awesome-gno">Awesome Gno</a>
+    / /_/ / / / / /_/ /     Learn:     <a href="https://docs.gno.land">Official Documentation</a> - <a href="https://gno-by-example.com">Gno by Example</a> - <a href="https://github.com/gnolang/awesome-gno">Awesome Gno</a>
     \__, /_/ /_/\____/      Social:    <a href="https://twitter.com/_gnoland">Twitter</a> - <a href="https://discord.gg/tF2X8M6cVj">Discord</a> - <a href="https://reddit.com/r/gnoland">Reddit</a> - <a href="https://youtube.com/@_gnoland">YouTube</a>
    /____/                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 </pre>
 
 ***
-
+<details><summary>Start</summary>
+      
 ## Why Gno? 
 
 - A better programming language for smart contracts: Gno.land utilizes the Gno programming language, which is an interpreted variation of Go. It is executed through a specialized virtual machine called the GnoVM, purpose-built for the Gno.land blockchain. There are some differences among the languages: Gno does not support Goroutines, channels and non-deterministic libraries like `crypto/rand`, and it supports additional features like automatic persistence of global variables for storing state.
@@ -42,7 +43,7 @@ Choose your path:
 
 - \[Setup] [I want to jump in and get started hacking on Gno.land](https://github.com/gnolang/guide/blob/main/docs/engineering/gno.land/setup.md)
 
-- \[Tools] [I want to have a look at some of the code-editor support for the interpreted Gnolang](https://github.com/gnolang/guide/blob/main/docs/engineering/gno.land/tools.md)
+- \[Tools] [I want to have a look at some of the code-editor support for Gno](https://github.com/gnolang/guide/blob/main/docs/engineering/gno.land/tools.md)
 
 - \[Team] [I want to understand more about the team behind Gno.land](https://github.com/gnolang/guide/blob/main/docs/engineering/gno.land/team.md)
 
@@ -50,13 +51,13 @@ Choose your path:
 
 - \[Cosmos] [I want to understand more about Cosmos](https://github.com/gnolang/guide/blob/main/docs/knowledge-corner/cosmos.md)
 
-**Learn how to write Smart Contracts with Gnolang**
+**Learn how to write Smart Contracts with Gno**
 
-- \[Quickstart] [I want to get write a simple contract in Gnolang](https://github.com/gnolang/gno/blob/master/docs/how-to-guides/simple-contract.md)
+- \[Quickstart] [I want to get write a simple contract in Gno](https://github.com/gnolang/gno/blob/master/docs/how-to-guides/simple-contract.md)
 
 - \[Playground] [I want to learn Gnolang by writing and testing code on the Gno Playground](https://play.gno.land)
 
-- \[Code-Editor Support] [I want to have a look at which code editors are supported for Gnolang development](https://github.com/gnolang/guide/blob/main/docs/engineering/gno.land/tools.md)
+- \[Code-Editor Support] [I want to have a look at which code editors are supported for Gno development](https://github.com/gnolang/guide/blob/main/docs/engineering/gno.land/tools.md)
 
 **Contributing**
 
@@ -75,7 +76,7 @@ Choose your path:
 # Resources
 
 **Developer Resources**
-
+- [Official Documentation](https://docs.gno.land): The official documentation of Gno.land.
 - [Gno CLI](https://github.com/gnolang/gno): The Gno CLI is Gno’s primary development and testing environment. All main realms and packages can be found here.
 - [How-To-Guides](https://github.com/gnolang/gno/tree/master/docs/how-to-guides)
 - [Local Setup](https://github.com/gnolang/gno/blob/master/docs/getting-started/local-setup.md)
@@ -104,4 +105,5 @@ Choose your path:
 - [Berty](https://berty.tech/)
 - [OnBloc](https://onbloc.xyz/)
 - [Teritori](https://teritori.com/)
+</details>
 </pre>
