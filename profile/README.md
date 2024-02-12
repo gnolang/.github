@@ -12,7 +12,7 @@
 
 - A better programming language for smart contracts: Gno.land utilizes the Gno programming language, which is an interpreted variation of Go. It is executed through a specialized virtual machine called the GnoVM, purpose-built for the Gno.land blockchain. There are some differences among the languages: Gno does not support Goroutines, channels and non-deterministic libraries like `crypto/rand`, and it supports additional features like automatic persistence of global variables for storing state.
 
-- Consensus Protocol - Tendermint2: Gno.land achieves consensus between blockchain nodes using the Tendermint2 consensus protocol. This approach ensures secure and reliable network operation.
+- Consensus Protocol: Gno.land achieves consensus between nodes using the Tendermint2 consensus algorithm. Tendermint2 is a variation on the well-established [Tendermint consensus algorithm](https://docs.tendermint.com/v0.34/introduction/what-is-tendermint.html) used in many Cosmos blockchains, which is Byzantine Fault Tolerant, has instant finality (Users can be sure their transactions are finalized as soon as a block is created, unlike Bitcoin) and can easily be extracted to create new interoperable TM2-based blockchains.
 
 - Inter-Blockchain Communication (IBC): In the future, Gno.land will be able to communicate and exchange data with other blockchain networks within the Cosmos ecosystem through the Inter-Blockchain Communication (IBC) protocol.
 
