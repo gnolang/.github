@@ -10,7 +10,7 @@
 
 ## Why Gno? 
 
-- Interpreted Gnolang: Gno.land utilizes the Gnolang programming language, which is based on Go. It is executed through a specialized virtual machine called the GnoVM, purpose-built for the Gno.land blockchain. While Gnolang shares similarities with Go in terms of syntax, it currently lacks go routine support. However, this feature is planned for future development, ensuring deterministic GnoVM executions.
+- A better programming language for smart contracts: Gno.land utilizes the Gno programming language, which is an interpreted variation of Go. It is executed through a specialized virtual machine called the GnoVM, purpose-built for the Gno.land blockchain. There are some differences among the languages: Gno does not support Goroutines, channels and non-deterministic libraries like `crypto/rand`, and it supports additional features like automatic persistence of global variables for storing state.
 
 - Consensus Protocol - Tendermint2: Gno.land achieves consensus between blockchain nodes using the Tendermint2 consensus protocol. This approach ensures secure and reliable network operation.
 
