@@ -21,16 +21,15 @@ Additionally, gno.land features an incentive model that aligns the interests of 
 <details><summary>Build on gno.land</summary>
 
 - https://docs.gno.land - Official Gno documentation.
+- https://github.com/gnoverse - Community projects and experiments.
 - https://play.gno.land - Online coding playground.
 - https://github.com/gnolang/workshops - Workshops and tutorials.
 - https://gno.land/contribute - Become a contributor.
-- https://github.com/gnoverse - Community projects and experiments.
 
 </details>
 
 <details><summary>Community</summary>
 
-- [Gnoverse](https://github.com/gnoverse)
 - [Discord](https://discord.gg/S8nKUqwkPn)
 - [Twitter](https://twitter.com/_gnoland)
 - [Telegram](https://t.me/gnoland)
