@@ -30,6 +30,7 @@ Additionally, gno.land features an incentive model that aligns the interests of 
 
 <details><summary>Community</summary>
 
+- [Gnoverse](https://github.com/gnoverse)
 - [Discord](https://discord.gg/S8nKUqwkPn)
 - [Twitter](https://twitter.com/_gnoland)
 - [Telegram](https://t.me/gnoland)
