@@ -3,7 +3,7 @@
      / __ `/ __ \/ __ \     Networks:  <a href="https://gno.land">Mainnet (gnoland-1)</a> - <a href="https://docs.gno.land/resources/gnoland-networks">Testnets</a>
     / /_/ / / / / /_/ /     Build:     <a href="https://play.gno.land">Playground</a> - <a href="https://github.com/gnolang/getting-started">Getting started</a> - <a href="https://faucet.gno.land">Testnet faucet</a>
     \__, /_/ /_/\____/      Learn:     <a href="https://docs.gno.land">Documentation</a> - <a href="https://github.com/gnoverse/awesome-gno">Awesome Gno</a> - <a href="https://github.com/gnolang/workshops">Workshops</a>
-   /____/                   Social:    <a href="https://x.com/_gnoland">X</a> - <a href="https://discord.gg/tF2X8M6cVj">Discord</a> - <a href="https://reddit.com/r/gnoland">Reddit</a> - <a href="https://youtube.com/@_gnoland">YouTube</a>
+   /____/                   Social:    <a href="https://x.com/_gnoland">X</a> - <a href="https://discord.com/invite/gnoland">Discord</a> - <a href="https://reddit.com/r/gnoland">Reddit</a> - <a href="https://youtube.com/@_gnoland">YouTube</a>
 </pre>
 
 ***
@@ -57,7 +57,7 @@ along with archives of past networks and node/validator instructions.
 
 <details><summary>Community</summary>
 
-- [Discord](https://discord.gg/tF2X8M6cVj)
+- [Discord](https://discord.com/invite/gnoland)
 - [X](https://x.com/_gnoland)
 - [Telegram](https://t.me/gnoland)
 - [Reddit](https://reddit.com/r/gnoland)
