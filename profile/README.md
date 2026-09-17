@@ -1,12 +1,21 @@
 <pre>
-      ____ _____  ____      Discover:  <a href="https://www.gno.land/">Homepage</a> - <a href="https://github.com/gnolang/gno">Main repo</a> - <a href="https://github.com/gnoverse">Gnoverse</a>
-     / __ `/ __ \/ __ \     Networks:  <a href="https://gno.land">Staging</a> - <a href="https://test9.testnets.gno.land/">Test9 (latest)</a>
-    / /_/ / / / / /_/ /     Learn:     <a href="https://docs.gno.land">Official Documentation</a> - <a href="https://github.com/gnoverse/awesome-gno">Awesome Gno</a>
-    \__, /_/ /_/\____/      Social:    <a href="https://twitter.com/_gnoland">Twitter</a> - <a href="https://discord.gg/tF2X8M6cVj">Discord</a> - <a href="https://reddit.com/r/gnoland">Reddit</a> - <a href="https://youtube.com/@_gnoland">YouTube</a>
-   /____/                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+      ____ _____  ____      Discover:  <a href="https://gno.land/">gno.land</a> - <a href="https://github.com/gnolang/gno">Main repo</a> - <a href="https://docs.gno.land">Docs</a> - <a href="https://github.com/gnoverse">Gnoverse</a>
+     / __ `/ __ \/ __ \     Networks:  <a href="https://gno.land">Mainnet (gnoland-1)</a> - <a href="https://pearl.testnets.gno.land/">Pearl / test16 (latest testnet)</a>
+    / /_/ / / / / /_/ /     Build:     <a href="https://play.gno.land">Playground</a> - <a href="https://github.com/gnolang/getting-started">Getting started</a> - <a href="https://faucet.gno.land">Testnet faucet</a>
+    \__, /_/ /_/\____/      Learn:     <a href="https://docs.gno.land">Documentation</a> - <a href="https://github.com/gnoverse/awesome-gno">Awesome Gno</a> - <a href="https://github.com/gnolang/workshops">Workshops</a>
+   /____/                   Social:    <a href="https://x.com/_gnoland">X</a> - <a href="https://discord.gg/tF2X8M6cVj">Discord</a> - <a href="https://reddit.com/r/gnoland">Reddit</a> - <a href="https://youtube.com/@_gnoland">YouTube</a>
 </pre>
 
 ***
+
+> **gno.land mainnet (`gnoland-1`) is live since 12 September 2026.**
+> It launched as a fresh chain — not a fork of betanet — with balances from the
+> audited [independence-day](https://github.com/gnolang/independence-day)
+> allocation. Transfers start locked per Constitution §126, and there is **no
+> mainnet faucet**. RPC: `https://rpc.gno.land:443`.
+> Need free tokens to experiment? Use the latest testnet,
+> [Pearl](https://pearl.testnets.gno.land/) (`pearl-1`), and the
+> [faucet](https://faucet.gno.land).
 
 <details><summary>Why Gno?</summary>
 
@@ -18,11 +27,26 @@ Additionally, gno.land features an incentive model that aligns the interests of 
 
 </details>
 
+<details><summary>Networks</summary>
+
+| Network | Chain ID | RPC | Use it for |
+|---|---|---|---|
+| [Mainnet](https://gno.land) | `gnoland-1` | `https://rpc.gno.land:443` | Production. Real GNOT, no faucet. |
+| [Pearl / test16](https://pearl.testnets.gno.land/) | `pearl-1` | `https://rpc.pearl.testnets.gno.land:443` | The testnet to use unless you have a reason not to. |
+| [Staging](https://staging.gno.land) | `staging` | `https://rpc.staging.gno.land:443` | Rolling build of `master`; state is best-effort. **Currently halted** — check before relying on it. |
+
+Full details, archives of past testnets, and node/validator instructions:
+[Gno networks](https://docs.gno.land/resources/gnoland-networks).
+
+</details>
+
 <details><summary>Build on gno.land</summary>
 
 - https://docs.gno.land - Official Gno documentation.
-- https://github.com/gnoverse - Community projects and experiments.
 - https://play.gno.land - Online coding playground.
+- https://github.com/gnolang/getting-started - Your first realm in five minutes.
+- https://github.com/gnolang/repo-template - Scaffold for a real-world Gno project.
+- https://github.com/gnoverse - Community projects and experiments.
 - https://github.com/gnolang/workshops - Workshops and tutorials.
 - https://gno.land/contribute - Become a contributor.
 
@@ -30,8 +54,9 @@ Additionally, gno.land features an incentive model that aligns the interests of 
 
 <details><summary>Community</summary>
 
-- [Discord](https://discord.gg/S8nKUqwkPn)
-- [Twitter](https://twitter.com/_gnoland)
+- [Discord](https://discord.gg/tF2X8M6cVj)
+- [X](https://x.com/_gnoland)
 - [Telegram](https://t.me/gnoland)
+- [Reddit](https://reddit.com/r/gnoland)
 - [YouTube](https://www.youtube.com/@_gnoland)
 </details>
